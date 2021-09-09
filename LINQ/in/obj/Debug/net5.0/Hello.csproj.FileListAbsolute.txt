@@ -1,0 +1,16 @@
+C:\Users\mounisha\Desktop\SQL Practice\LINQ\in\bin\Debug\net5.0\Hello.exe
+C:\Users\mounisha\Desktop\SQL Practice\LINQ\in\bin\Debug\net5.0\Hello.deps.json
+C:\Users\mounisha\Desktop\SQL Practice\LINQ\in\bin\Debug\net5.0\Hello.runtimeconfig.json
+C:\Users\mounisha\Desktop\SQL Practice\LINQ\in\bin\Debug\net5.0\Hello.runtimeconfig.dev.json
+C:\Users\mounisha\Desktop\SQL Practice\LINQ\in\bin\Debug\net5.0\Hello.dll
+C:\Users\mounisha\Desktop\SQL Practice\LINQ\in\bin\Debug\net5.0\ref\Hello.dll
+C:\Users\mounisha\Desktop\SQL Practice\LINQ\in\bin\Debug\net5.0\Hello.pdb
+C:\Users\mounisha\Desktop\SQL Practice\LINQ\in\obj\Debug\net5.0\Hello.csproj.AssemblyReference.cache
+C:\Users\mounisha\Desktop\SQL Practice\LINQ\in\obj\Debug\net5.0\Hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mounisha\Desktop\SQL Practice\LINQ\in\obj\Debug\net5.0\Hello.AssemblyInfoInputs.cache
+C:\Users\mounisha\Desktop\SQL Practice\LINQ\in\obj\Debug\net5.0\Hello.AssemblyInfo.cs
+C:\Users\mounisha\Desktop\SQL Practice\LINQ\in\obj\Debug\net5.0\Hello.csproj.CoreCompileInputs.cache
+C:\Users\mounisha\Desktop\SQL Practice\LINQ\in\obj\Debug\net5.0\Hello.dll
+C:\Users\mounisha\Desktop\SQL Practice\LINQ\in\obj\Debug\net5.0\ref\Hello.dll
+C:\Users\mounisha\Desktop\SQL Practice\LINQ\in\obj\Debug\net5.0\Hello.pdb
+C:\Users\mounisha\Desktop\SQL Practice\LINQ\in\obj\Debug\net5.0\Hello.genruntimeconfig.cache
